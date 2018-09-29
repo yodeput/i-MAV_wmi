@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/scrollView"
+    android:background="@color/bg_login">
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/card_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp">
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/site_name_txt"
+        android:layout_column="0"
+        android:textStyle="bold"
+        android:layout_marginLeft="10dip"
+        android:layout_marginTop="5dip"
+        android:textSize="16dp"
+        android:textColor="@color/bg_login" />
+
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="5dp">
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Site ID"
+                        android:id="@+id/textView"
+                        android:layout_column="0"
+                        android:textStyle="bold"
+                        android:layout_marginTop="5dip"
+                        android:textSize="12dp"
+                        android:textColor="@color/bg_login" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="New Text"
+                        android:id="@+id/site_id_txt"
+                        android:layout_column="2"
+                        android:paddingLeft="6dip"
+                        android:layout_marginTop="5dip"
+                        android:textSize="14dp"
+                        android:textColor="@color/bg_login" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Lusyta ID"
+                        android:id="@+id/textView2"
+                        android:layout_column="0"
+                        android:textStyle="bold"
+                        android:layout_marginTop="5dip"
+                        android:textSize="12dp"
+                        android:layout_marginLeft="5sp"
+                        android:textColor="@color/bg_login" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="New Text"
+                        android:id="@+id/host_code_txt"
+                        android:layout_column="2"
+                        android:paddingLeft="6dip"
+                        android:layout_marginTop="5dip"
+                        android:textSize="14dp"
+                        android:textColor="@color/bg_login" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                </TableRow>
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Cluster"
+                        android:id="@+id/textView7"
+                        android:layout_column="0"
+                        android:textStyle="bold"
+                        android:layout_marginTop="5dip"
+                        android:textSize="12dp"
+                        android:textColor="@color/bg_login" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="New Text"
+                        android:id="@+id/cluster_txt"
+                        android:layout_column="2"
+                        android:paddingLeft="6dip"
+                        android:layout_marginTop="5dip"
+                        android:textSize="14dp"
+                        android:textColor="@color/bg_login" />
+
+                    <TextView
+                        android:text="Monitoring"
+                        android:id="@+id/textView8"
+                        android:layout_column="0"
+                        android:layout_marginTop="5dip"
+                        android:textStyle="bold"
+                        android:textSize="12dp"
+                        android:layout_marginLeft="5sp"
+                        android:textColor="@color/bg_login" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="New Text"
+                        android:id="@+id/monitoring_txt"
+                        android:layout_column="2"
+                        android:paddingLeft="6dip"
+                        android:layout_marginTop="5dip"
+                        android:textSize="14dp"
+                        android:textColor="@color/bg_login" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Customer"
+                        android:id="@+id/textView11"
+                        android:layout_column="0"
+                        android:textStyle="bold"
+                        android:layout_marginTop="5dip"
+                        android:textSize="12dp"
+                        android:textColor="@color/bg_login" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="New Text"
+                        android:id="@+id/customer_txt"
+                        android:layout_column="2"
+                        android:paddingLeft="6dip"
+                        android:layout_marginTop="5dip"
+                        android:textSize="14dp"
+                        android:textColor="@color/bg_login" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+
+                </TableRow>
+
+            </TableLayout>
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:elevation="0dp"
+                        android:id="@+id/lin_iniitu"
+                        android:layout_alignParentTop="false"
+                        android:layout_alignParentLeft="false"
+                        android:layout_alignParentStart="false">
+
+                        <LinearLayout
+                            android:orientation="vertical"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:gravity="center_horizontal"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginBottom="5dp">
+
+                            <Chronometer
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:id="@+id/chronometer"
+                                android:textStyle="bold"
+                                android:textSize="30dp"
+                                android:layout_gravity="center_horizontal"
+                                android:layout_marginTop="10dip"
+                                android:visibility="gone"
+                                android:textColor="@android:color/holo_orange_light"
+                                android:layout_marginBottom="10dip" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:orientation="vertical"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:id="@+id/lin_kategatas"
+                            android:visibility="visible"
+                            android:background="#efebe9"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Activity Visit:"
+                                android:id="@+id/textView9"
+                                android:layout_marginLeft="20dp"
+                                android:textStyle="bold"
+                                android:layout_marginRight="20dp"
+                                android:textSize="15sp"
+                                android:textColor="@color/bg_login" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="New Text"
+                                android:id="@+id/activitytxt"
+                                android:layout_marginLeft="35dp"
+                                android:textColor="@color/bg_login" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:orientation="vertical"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:id="@+id/lin_startatas"
+                            android:visibility="visible"
+                            android:background="#efebe9"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Start Time"
+                                android:id="@+id/textView10"
+                                android:layout_marginLeft="20dp"
+                                android:textStyle="bold"
+                                android:layout_marginRight="20dp"
+                                android:textSize="15sp"
+                                android:textColor="@color/bg_login" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="New Text"
+                                android:id="@+id/starttimetxt"
+                                android:layout_marginLeft="35dp"
+                                android:textColor="@color/bg_login" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:orientation="vertical"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:id="@+id/lin_finishatas"
+                            android:visibility="gone"
+                            android:background="#efebe9"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Finish Time"
+                                android:id="@+id/textView13"
+                                android:layout_marginLeft="20dp"
+                                android:textStyle="bold"
+                                android:textSize="15sp"
+                                android:textColor="@color/bg_login" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="New Text"
+                                android:id="@+id/finishtimetxt"
+                                android:layout_marginLeft="35dp"
+                                android:textColor="@color/bg_login" />
+                        </LinearLayout>
+
+                        <TableLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:gravity="center"
+                            android:layout_marginLeft="10sp"
+                            android:layout_marginRight="10sp">
+
+                            <TableRow
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:id="@+id/tegangan_row"
+                                android:visibility="gone"
+                                android:layout_gravity="center_horizontal"
+                                android:background="@color/orange300">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Bus V:"
+                                    android:id="@+id/textView12"
+                                    android:textStyle="bold|italic"
+                                    android:textSize="14sp"
+                                    android:layout_marginLeft="20dp"
+                                    android:layout_marginTop="5dp"
+                                    android:textColor="@color/bg_login"
+                                    android:enabled="false"
+                                    />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="busvtxt"
+                                    android:id="@+id/busvtxt"
+                                    android:layout_column="2"
+                                    android:layout_marginLeft="5dip"
+                                    android:textStyle="italic"
+                                    android:textSize="18sp"
+                                    android:inputType="numberDecimal"
+                                    android:layout_marginTop="5dp"
+                                    android:textColor="@color/bg_login"
+                                    android:enabled="false" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Load I:"
+                                    android:id="@+id/textView15"
+                                    android:layout_column="3"
+                                    android:layout_marginLeft="20dip"
+                                    android:textStyle="bold|italic"
+                                    android:textSize="14sp"
+                                    android:layout_marginTop="5dp"
+                                    android:textColor="@color/bg_login"
+                                    android:enabled="false" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="loaditxt"
+                                    android:id="@+id/loaditxt"
+                                    android:layout_column="4"
+                                    android:layout_marginLeft="5dip"
+                                    android:textStyle="italic"
+                                    android:textSize="18sp"
+                                    android:inputType="numberDecimal"
+                                    android:layout_marginTop="5dp"
+                                    android:textColor="@color/bg_login"
+                                    android:enabled="false" />
+                            </TableRow>
+
+                            <TableRow
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:id="@+id/running_row"
+                                android:visibility="gone"
+                                android:background="@color/orange300">
+
+                                <TextView
+                                    android:text="Running/Day: "
+                                    android:id="@+id/textView17"
+                                    android:layout_column="0"
+                                    android:layout_marginTop="5dp"
+                                    android:textStyle="bold|italic"
+                                    android:textSize="14sp"
+                                    android:layout_marginLeft="20dp"
+                                    android:textColor="@color/bg_login"
+                                    android:enabled="false" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="rpdtxt"
+                                    android:id="@+id/rpdtxt"
+                                    android:layout_column="2"
+                                    android:layout_marginLeft="5dip"
+                                    android:layout_marginTop="5dp"
+                                    android:textStyle="italic"
+                                    android:textSize="18sp"
+                                    android:inputType="numberDecimal"
+                                    android:textColor="@color/bg_login"
+                                    android:enabled="false" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="RH:"
+                                    android:id="@+id/textView19"
+                                    android:layout_column="3"
+                                    android:layout_marginLeft="20dip"
+                                    android:layout_marginTop="5dp"
+                                    android:textStyle="bold|italic"
+                                    android:textSize="14sp"
+                                    android:textColor="@color/bg_login"
+                                    android:enabled="false" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="rhtxt"
+                                    android:id="@+id/rhtxt"
+                                    android:layout_column="4"
+                                    android:layout_marginLeft="5dip"
+                                    android:layout_marginTop="5dp"
+                                    android:textStyle="italic"
+                                    android:textSize="18sp"
+                                    android:inputType="numberDecimal"
+                                    android:textColor="@color/bg_login"
+                                    android:enabled="false" />
+                            </TableRow>
+
+                            <TableRow
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:id="@+id/fuel_row"
+                                android:visibility="gone"
+                                android:background="@color/orange300">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Fuel Rest:"
+                                    android:id="@+id/textView21"
+                                    android:layout_column="0"
+                                    android:layout_marginTop="5dp"
+                                    android:textStyle="bold|italic"
+                                    android:textSize="14sp"
+                                    android:layout_marginLeft="20dp"
+                                    android:textColor="@color/bg_login"
+                                    android:enabled="false" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="fuelresttxt"
+                                    android:id="@+id/fuelresttxt"
+                                    android:layout_column="2"
+                                    android:layout_marginLeft="5dip"
+                                    android:layout_marginTop="5dp"
+                                    android:textStyle="italic"
+                                    android:textSize="18sp"
+                                    android:textColor="@color/bg_login"
+                                    android:enabled="false" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Refuel:"
+                                    android:id="@+id/textView23"
+                                    android:layout_column="3"
+                                    android:layout_marginLeft="20dip"
+                                    android:layout_marginTop="5dp"
+                                    android:textStyle="bold|italic"
+                                    android:textSize="14sp"
+                                    android:textColor="@color/bg_login"
+                                    android:enabled="false" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="refueltxt"
+                                    android:id="@+id/refueltxt"
+                                    android:layout_column="4"
+                                    android:layout_marginLeft="5dip"
+                                    android:layout_marginTop="5dp"
+                                    android:textStyle="italic"
+                                    android:textSize="18sp"
+                                    android:textColor="@color/bg_login"
+                                    android:enabled="false" />
+                            </TableRow>
+
+                        </TableLayout>
+
+                        <TableLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:gravity="center_horizontal"
+                            android:backgroundTint="@color/indigo100"
+                            android:id="@+id/remark_tabel"
+                            android:visibility="gone">
+
+                            <TableRow
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:id="@+id/remark_row"
+                                android:background="@color/indigo100">
+
+                                <TextView
+                                    android:text="Remark:"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:id="@+id/textView5"
+                                    android:textSize="14sp"
+                                    android:textStyle="normal|bold"
+                                    android:layout_marginLeft="5dp"
+                                    android:layout_marginTop="5dp"
+                                    android:textColor="#1a237e" />
+
+                            </TableRow>
+
+                            <TableRow
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:id="@+id/remark_rowwww"
+                                android:background="@color/indigo100">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:text="ini adalah remark untuk mengingatkan bahwa ini ada text untuk remark"
+                                    android:id="@+id/remarktxt"
+                                    android:textStyle="italic"
+                                    android:visibility="visible"
+                                    android:layout_marginLeft="5dp"
+                                    android:textColor="#1a237e"
+                                    android:layout_marginRight="5dp" />
+
+                            </TableRow>
+                        </TableLayout>
+
+                    </LinearLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:elevation="13dp"
+                        android:layout_alignRight="@+id/lin_iniitu"
+                        android:layout_marginRight="10sp"
+                        android:id="@+id/rel_pp"
+                        android:visibility="gone"
+                        android:gravity="center_vertical|center_horizontal">
+
+                        <ImageView
+                            app:srcCompat="@drawable/rounded_avatar_frame"
+                            android:id="@+id/imageView2"
+                            android:scaleType="centerCrop"
+                            android:layout_centerHorizontal="true"
+                            android:elevation="19dp"
+                            android:layout_width="80sp"
+                            android:layout_height="80sp" />
+
+                        <ImageView
+                            android:id="@+id/img_profile"
+                            app:srcCompat="@drawable/avatar_default_round"
+                            android:scaleType="centerCrop"
+                            android:layout_marginTop="5sp"
+                            android:elevation="10dp"
+                            android:layout_centerHorizontal="true"
+                            android:layout_width="70sp"
+                            android:layout_height="70sp" />
+
+                        <TextView
+                            android:text="TextView"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/textPIC_name"
+                            android:elevation="16dp"
+                            android:layout_below="@+id/imageView2"
+                            android:layout_centerHorizontal="true"
+                            android:textColor="@color/bg_login"
+                            android:textStyle="normal|bold"
+                            android:gravity="center" />
+                    </RelativeLayout>
+
+                </RelativeLayout>
+            </ScrollView>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/lin_position"
+                android:visibility="gone"
+                android:background="#a4c8ff">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="lattxt"
+                    android:id="@+id/lattxt"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="5dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="longtxt"
+                    android:id="@+id/longtxt"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="20dp" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+
+        <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp" >
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/lin_kategbawah"
+            android:visibility="gone">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ACTIVITY"
+                android:id="@+id/textView3"
+                android:layout_marginTop="5dip"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:textColor="@android:color/secondary_text_dark" />
+
+            <Spinner
+                android:id="@+id/kateg_spinner"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/btn_login_bg"
+                android:hint="Kategori"
+                android:padding="10dp"
+                android:textColor="@color/primary_material_dark"
+                android:textColorHint="@color/input_register_hint"/>
+        </LinearLayout>
+
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/lin_parameter"
+                android:layout_marginTop="5dp"
+                android:visibility="gone">
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:paddingRight="10dp">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="BUS VOLTAGE"
+                            android:id="@+id/textView14"
+                            android:textColor="@android:color/secondary_text_dark" />
+
+                        <EditText
+                            android:id="@+id/in_busv"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@color/btn_login_bg"
+                            android:hint="Bus Voltage"
+                            android:padding="10dp"
+                            android:singleLine="true"
+                            android:textColor="@color/primary_material_dark"
+                            android:textColorHint="@color/input_register_hint"
+                            android:inputType="numberDecimal" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:paddingLeft="10dp">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="LOAD CURRENT"
+                            android:id="@+id/textView155"
+                            android:textColor="@android:color/secondary_text_dark" />
+
+                        <EditText
+                            android:id="@+id/in_loadi"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:background="@color/btn_login_bg"
+                            android:hint="Load Current"
+                            android:padding="10dp"
+                            android:singleLine="true"
+                            android:textColor="@color/primary_material_dark"
+                            android:textColorHint="@color/input_register_hint"
+                            android:inputType="numberDecimal" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <Button
+                    android:id="@+id/simpanParameter"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dip"
+                    android:background="#42a5f5"
+                    android:text="SIMPAN"
+                    android:textColor="@color/white"
+                    android:layout_weight="1" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/lin_running"
+                android:layout_marginTop="5dp"
+                android:visibility="gone">
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:paddingRight="10dp"
+                        android:layout_weight="1">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="RUNNING PER DAY"
+                            android:id="@+id/textView16"
+                            android:textColor="@android:color/secondary_text_dark" />
+
+                        <EditText
+                            android:id="@+id/in_rpd"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@color/btn_login_bg"
+                            android:hint="RPD"
+                            android:padding="10dp"
+                            android:singleLine="true"
+                            android:textColor="@color/primary_material_dark"
+                            android:textColorHint="@color/input_register_hint"
+                            android:inputType="numberDecimal" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:paddingLeft="10dp"
+                        android:layout_weight="1">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="TOTAL RUNNING HOUR"
+                            android:id="@+id/textView20"
+                            android:textColor="@android:color/secondary_text_dark" />
+
+                        <EditText
+                            android:id="@+id/in_rh"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@color/btn_login_bg"
+                            android:hint="Running Hour"
+                            android:padding="10dp"
+                            android:singleLine="true"
+                            android:textColor="@color/primary_material_dark"
+                            android:textColorHint="@color/input_register_hint"
+                            android:inputType="numberDecimal" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <Button
+                    android:id="@+id/simpan_rh"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dip"
+                    android:background="#42a5f5"
+                    android:text="SIMPAN"
+                    android:textColor="@color/white" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/lin_fuel"
+                android:layout_marginTop="5dp"
+                android:visibility="gone">
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:paddingRight="10dp">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="FUEL REST"
+                            android:id="@+id/textView24"
+                            android:textColor="@android:color/secondary_text_dark" />
+
+                        <EditText
+                            android:id="@+id/in_fuelrest"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:background="@color/btn_login_bg"
+                            android:hint="Fuel Rest (Liter)"
+                            android:padding="10dp"
+                            android:singleLine="true"
+                            android:textColor="@color/primary_material_dark"
+                            android:textColorHint="@color/input_register_hint"
+                            android:inputType="number" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:paddingLeft="10dp">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="REFUEL"
+                            android:id="@+id/textView25"
+                            android:textColor="@android:color/secondary_text_dark" />
+
+                        <EditText
+                            android:id="@+id/in_refuel"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:background="@color/btn_login_bg"
+                            android:hint="Refuel (Liter)"
+                            android:padding="10dp"
+                            android:singleLine="true"
+                            android:textColor="@color/primary_material_dark"
+                            android:textColorHint="@color/input_register_hint"
+                            android:inputType="number" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <Button
+                    android:id="@+id/simpan_fuel"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dip"
+                    android:background="#42a5f5"
+                    android:text="SIMPAN"
+                    android:textColor="@color/white" />
+            </LinearLayout>
+
+            <!-- Login Button -->
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/lin_remark"
+                android:layout_marginTop="5dp"
+                android:visibility="gone" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="REMARK"
+                    android:id="@+id/textView4"
+                    android:textColor="@android:color/secondary_text_dark" />
+
+                <EditText
+                    android:id="@+id/in_remark"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/btn_login_bg"
+                    android:hint="Remark"
+                    android:padding="10dp"
+                    android:inputType="textMultiLine"
+                    android:textColor="@color/primary_material_dark"
+                    android:textColorHint="@color/input_register_hint" />
+
+                <Button
+                    android:id="@+id/simpan_remark"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dip"
+                    android:background="#42a5f5"
+                    android:text="SIMPAN"
+                    android:textColor="@color/white" />
+            </LinearLayout>
+
+            <Button
+            android:id="@+id/AddSiteVisit"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dip"
+            android:background="@android:color/holo_green_dark"
+            android:text="Check In"
+            android:textColor="@color/white"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/addData"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dip"
+                android:background="#fff200"
+                android:text="ISI DATA"
+                android:textColor="@color/input_login"
+                android:visibility="gone" />
+
+            <Button
+            android:id="@+id/SiteVisitOut"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dip"
+            android:background="#d50000"
+            android:text="Check Out"
+            android:textColor="@color/white"
+            android:visibility="gone" />
+
+            <Button
+                android:id="@+id/kirimSMS"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dip"
+                android:background="@android:color/holo_orange_light"
+                android:text="Kirim SMS"
+                android:textColor="@color/input_login"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/sharePict"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dip"
+                android:background="@android:color/holo_orange_light"
+                android:text="Share Capture"
+                android:textColor="@color/input_login"
+                android:visibility="gone" />
+
+            <!-- Link to Login Screen -->
+
+    </LinearLayout>
+
+    </LinearLayout>
+    </ScrollView>

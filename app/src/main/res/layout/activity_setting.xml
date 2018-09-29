@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_setting"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="site.visit.wmi.activity.SettingActivity"
+    android:background="@color/blue_dongker">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="false"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentStart="false"
+        android:weightSum="1">
+
+        <FrameLayout
+            android:id="@+id/container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <android.support.v7.widget.CardView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        app:cardUseCompatPadding="true"
+                        app:cardElevation="4dp"
+                        app:cardCornerRadius="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="5dp"
+                        app:cardBackgroundColor="@color/cardview_light_background"
+                        android:layout_marginBottom="5dp">
+
+                        <LinearLayout
+                            android:orientation="vertical"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:clickable="true"
+                            android:layout_marginTop="10dp"
+                            android:padding="5dp"
+                            android:id="@+id/lin_ip"
+                            android:layout_marginBottom="10dp">
+
+                            <TextView
+                                android:text="Server"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:id="@+id/textView18"
+                                android:textAlignment="viewStart"
+                                android:textStyle="normal|bold"
+                                android:layout_marginLeft="25dp"
+                                android:textColor="@color/blue_dongker"
+                                android:textSize="18dp" />
+
+                            <TextView
+                                android:text="Address"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:id="@+id/textView22"
+                                android:layout_marginLeft="40dp"
+                                android:textSize="17sp" />
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+                                <TextView
+                                    android:text="IP_TXT"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="40dp"
+                                    android:textSize="16dp"
+                                    android:id="@+id/ip_txt"
+                                    android:layout_weight="1"
+                                    android:elevation="1dp"
+                                    android:layout_alignParentTop="true"
+                                    android:layout_alignParentLeft="true"
+                                    android:layout_alignParentStart="true"
+                                    android:textColor="@color/colorPrimaryDark" />
+
+                                <TextView
+                                    android:text=":"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:id="@+id/textView31"
+                                    android:textSize="18dp"
+                                    android:textStyle="normal|bold"
+                                    android:layout_alignBaseline="@+id/ip_txt"
+                                    android:layout_alignBottom="@+id/ip_txt"
+                                    android:layout_toRightOf="@+id/ip_txt"
+                                    android:layout_toEndOf="@+id/ip_txt"
+                                    android:layout_marginLeft="3dp"
+                                    android:layout_marginRight="3dp"
+                                    android:textColor="@android:color/holo_orange_dark" />
+
+                                <TextView
+                                    android:text="PORT_TXT"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="1"
+                                    android:id="@+id/port_txt"
+                                    android:textSize="16dp"
+                                    android:layout_alignParentTop="true"
+                                    android:layout_toRightOf="@+id/textView31"
+                                    android:layout_toEndOf="@+id/textView31"
+                                    android:textColor="@color/colorPrimaryDark" />
+                            </RelativeLayout>
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+
+                    <ImageView
+                        android:id="@+id/set_button"
+                        android:src="@drawable/edit_ico"
+                        android:elevation="5dp"
+                        android:layout_width="50sp"
+                        android:layout_height="50sp"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentEnd="true"
+                        android:background="@drawable/round_image"/>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+                    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    card_view:cardUseCompatPadding="true"
+                    card_view:cardElevation="4dp"
+                    card_view:cardCornerRadius="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    card_view:cardBackgroundColor="@color/cardview_light_background"
+                    android:layout_marginBottom="5dp">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="10dp"
+                        android:padding="5dp"
+                        android:clickable="true">
+
+                        <TextView
+                            android:text="Application"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/textView27"
+                            android:textAlignment="viewStart"
+                            android:textStyle="normal|bold"
+                            android:layout_marginLeft="25dp"
+                            android:textColor="@color/blue_dongker"
+                            android:textSize="18dp" />
+
+                        <TextView
+                            android:text="Version"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="40dp"
+                            android:textSize="17sp" />
+
+                        <TextView
+                            android:text="VERSION_TXT"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="40dp"
+                            android:textSize="16dp"
+                            android:id="@+id/ver_txt"
+                            android:textColor="@android:color/holo_orange_dark" />
+
+
+                        <Button
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:background="@color/input_register"
+                            android:textStyle="bold"
+                            android:text="Check Update"
+                            android:textAllCaps="false"
+                            android:textColor="@color/blue_dongker"
+                            android:textSize="20dp"
+                            android:id="@+id/btnupdate"
+                            android:layout_marginBottom="25dp"
+                            android:layout_marginLeft="25dp"
+                            android:layout_marginRight="25dp"
+                            android:layout_marginTop="30sp" />
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:gravity="center_vertical"
+                            android:layout_marginBottom="30sp">
+
+
+
+                            <Switch
+                                android:id="@+id/simpleSwitch"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentTop="true"
+                                android:layout_alignParentRight="true"
+                                android:layout_alignParentEnd="true"
+                                android:layout_marginRight="25sp" />
+
+                            <TextView
+                                android:text="Auto Update"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:id="@+id/textView34"
+                                android:layout_alignParentTop="true"
+                                android:layout_alignParentLeft="true"
+                                android:layout_alignParentStart="true"
+                                android:layout_marginLeft="25sp"
+                                android:textSize="18sp"
+                                android:textColor="@color/blue_dongker"
+                                android:textStyle="normal|bold" />
+
+                            <TextView
+                                android:text="TextView"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentTop="true"
+                                android:layout_toRightOf="@+id/textView34"
+                                android:layout_toEndOf="@+id/textView34"
+                                android:id="@+id/textView39"
+                                android:visibility="gone" />
+                        </RelativeLayout>
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+
+                </RelativeLayout>
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    app:cardUseCompatPadding="true"
+                    app:cardElevation="4dp"
+                    app:cardCornerRadius="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    app:cardBackgroundColor="@color/cardview_light_background"
+                    android:layout_marginBottom="5dp"
+                    android:elevation="18dp"
+                    android:layout_weight="0.80"
+                    android:layout_height="150sp">
+
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:id="@+id/splashIMG"
+                            android:src="@drawable/noc_logo"
+                            android:scaleType="centerInside"
+                            android:adjustViewBounds="true" />
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+            </LinearLayout>
+        </ScrollView>
+
+    </LinearLayout>
+
+
+</RelativeLayout>

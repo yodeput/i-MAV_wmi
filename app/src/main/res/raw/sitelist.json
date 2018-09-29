@@ -1,0 +1,1523 @@
+{
+	"site": [{
+		"site_id": "100155109",
+		"host_code": "75006",
+		"site_name": "Panaragan Jaya Ex. Bulalo \/ Penawar Aji",
+		"cluster": "LAMPUNG",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "154079",
+		"host_code": "53020",
+		"site_name": "Telawang Raya Eks 161041 Sumber Rejo",
+		"cluster": "PALANGKARAYA",
+		"monitoring": "SMS V2",
+		"customer": "H3I"
+	}, {
+		"site_id": "161155",
+		"host_code": "161155",
+		"site_name": "Sinbaya_sebulu modern",
+		"cluster": "TENGGARONG",
+		"monitoring": "SMS V2",
+		"customer": "H3I"
+	}, {
+		"site_id": "161589",
+		"host_code": "161589",
+		"site_name": "Sangatta 6 Ex Wonotirto",
+		"cluster": "BONTANG",
+		"monitoring": "SMS V1",
+		"customer": "H3I"
+	}, {
+		"site_id": "190004109",
+		"host_code": "10006",
+		"site_name": "Leragere ex. SOLOR 1 \/ Suleng Waseng",
+		"cluster": "KUPANG",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "190033109",
+		"host_code": "10005",
+		"site_name": "FLOTIM 18 EX SILA2\/ Kobasoma",
+		"cluster": "KUPANG",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "200149109",
+		"host_code": "41115",
+		"site_name": "TB Matan Ex. Molawe",
+		"cluster": "PONTIANAK",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "210023109",
+		"host_code": "41135",
+		"site_name": "TB_SEIRAJA Ex Seibaru Seibundung Ex. SEI KUNING",
+		"cluster": "SAMPIT",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "172467",
+		"host_code": "172467",
+		"site_name": "Melati",
+		"cluster": "BANJARMASIN",
+		"monitoring": "SMS V1",
+		"customer": "H3I"
+	}, {
+		"site_id": "200138109",
+		"host_code": "41116",
+		"site_name": "PT Ani Wilmar Sambas Ex. Rahandouna Ex Ambasea",
+		"cluster": "PONTIANAK",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "040541 Z",
+		"host_code": "40541",
+		"site_name": "BATANG MALAS - SELAT PANJANG",
+		"cluster": "SIAK-BENGKALIS",
+		"monitoring": "SMS V2",
+		"customer": "H3I"
+	}, {
+		"site_id": "100001109",
+		"host_code": "75002",
+		"site_name": "Bukit Tenong",
+		"cluster": "LAMPUNG",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "100010109",
+		"host_code": "75001",
+		"site_name": "Sungai Sidang",
+		"cluster": "LAMPUNG",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "100671",
+		"host_code": "100671",
+		"site_name": "Kalihurip-Karawang",
+		"cluster": "KARAWANG",
+		"monitoring": "SMS V2",
+		"customer": "H3I"
+	}, {
+		"site_id": "118026",
+		"host_code": "118026",
+		"site_name": "RPT Datalink Salem",
+		"cluster": "SEMARANG",
+		"monitoring": "SMS V1",
+		"customer": "H3I"
+	}, {
+		"site_id": "120825109",
+		"host_code": "11002",
+		"site_name": "KGCI CIKAMPEK KM45 Ex. Tanjung Lesung",
+		"cluster": "KARAWANG",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "200158109",
+		"host_code": "41122",
+		"site_name": "MGM\/Sawit ex. TRB Tampo 2",
+		"cluster": "PONTIANAK",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "210028109",
+		"host_code": "41110",
+		"site_name": "TB_HANOI",
+		"cluster": "SAMPIT",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "210053109",
+		"host_code": "41133",
+		"site_name": "TB_TMBGMIWAN Ex. TB_HRNGBUNUT Ex. Road.tokula Kurun\/Hurung Bunut",
+		"cluster": "PALANGKARAYA",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "210054109",
+		"host_code": "41111",
+		"site_name": "TB_MENTARANG",
+		"cluster": "SAMPIT",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "210056109",
+		"host_code": "41126",
+		"site_name": "TB_SMNPLEMPASA Ex. Sukamandang Ex PT. Kridatama",
+		"cluster": "SAMPIT",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "210080109",
+		"host_code": "41114",
+		"site_name": "Agrokarya ex. Agrokarya (Combat) ex. SKP Kwandang (Lahang)",
+		"cluster": "PALANGKARAYA",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "210142104",
+		"host_code": "41120",
+		"site_name": "(TB_Makmur) PT Long Faer Ex. SKP Amohalo",
+		"cluster": "PALANGKARAYA",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "210228109",
+		"host_code": "53017",
+		"site_name": "TB_ Taringen PT. Mulya sawit Ex datuk Laksaman Duri 24 Tsel",
+		"cluster": "PALANGKARAYA",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "210250109",
+		"host_code": "53012",
+		"site_name": "TB_KSI3 Ex TB_SETIAUSAHA Ex. TB_ARDYMULYO EX PANCA AGUNG_A",
+		"cluster": "SAMPIT",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "210258109",
+		"host_code": "53015",
+		"site_name": "TB Lungkohlayang Ex Tapung Tanah Tinggi Tsel",
+		"cluster": "PALANGKARAYA",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "210260109",
+		"host_code": "53016",
+		"site_name": "TB. Bangun Sari_Flora Nusa Perdana Ex Datuk Laksamana duri 48 Tsel",
+		"cluster": "PALANGKARAYA",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "210264109",
+		"host_code": "53019",
+		"site_name": "Tumbang Manjul Ex Desa Hang Tuah Tsel",
+		"cluster": "SAMPIT",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "210267109",
+		"host_code": "53018",
+		"site_name": "TB. Tumbang Lambi Tahai Ex Simpang pulau Tinggi Tsel",
+		"cluster": "PALANGKARAYA",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "220005109",
+		"host_code": "41112",
+		"site_name": "TB_LEMO EX REDEP",
+		"cluster": "PALANGKARAYA",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "220061110-A",
+		"host_code": "41003",
+		"site_name": "TB Sarakaman Sabuku ex. SKP Nambo",
+		"cluster": "BANJARMASIN",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "220114109",
+		"host_code": "41002",
+		"site_name": "Gawi makmur",
+		"cluster": "BANJARMASIN",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "230054109",
+		"host_code": "41128",
+		"site_name": "Asam Besar (MS Lestari) ex. TB_AYANIPALE EX TDG_PALAH_MG_C",
+		"cluster": "SAMPIT",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "230089109",
+		"host_code": "52000",
+		"site_name": "TB_GNSKERAT2 EX SNGT_RD_4_RK_MG_B",
+		"cluster": "MUARA WAHAU",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "230265109",
+		"host_code": "51010",
+		"site_name": "TUTUNG & KELIAN DALAM ex. TB_BTBESAWNG EXJ_PRTAHANAN_MG_C",
+		"cluster": "KOTA BANGUN",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "40066",
+		"host_code": "40066",
+		"site_name": "RAJA HAJI KM. 5 - BINTAN RESORT",
+		"cluster": "BATAM-BINTAN ",
+		"monitoring": "SMS V1",
+		"customer": "H3I"
+	}, {
+		"site_id": "40316",
+		"host_code": "40316",
+		"site_name": "KAWAL DARAT - GUNUNG KIJANG",
+		"cluster": "BATAM-BINTAN ",
+		"monitoring": "SMS V2",
+		"customer": "H3I"
+	}, {
+		"site_id": "40719",
+		"host_code": "40719",
+		"site_name": "TANAH PUTIH (P)",
+		"cluster": "DURI",
+		"monitoring": "SMS V2",
+		"customer": "H3I"
+	}, {
+		"site_id": "40814",
+		"host_code": "40814",
+		"site_name": "PELAWAN",
+		"cluster": "OUTER KEPRI",
+		"monitoring": "SMS V2",
+		"customer": "H3I"
+	}, {
+		"site_id": "40937109",
+		"host_code": "87231",
+		"site_name": "BUMI PALMA Ex Sungai Medang Ex Binangai DC",
+		"cluster": "RENGAT",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "41118",
+		"host_code": "41118",
+		"site_name": "Korintiga Inhutani Ex. TBG Lanona",
+		"cluster": "SAMPIT",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "41123",
+		"host_code": "41123",
+		"site_name": "Camp PT_PBNA Ex TB_Desa Runtu",
+		"cluster": "SAMPIT",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "41124",
+		"host_code": "41124",
+		"site_name": "TB_PTKSIEST Ex. Tiwoho Ex TBG Mustika",
+		"cluster": "SAMPIT",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "41127",
+		"host_code": "41127",
+		"site_name": "TB_SEMBIKUAN Ex. TB_MUARA UNTU",
+		"cluster": "SAMPIT",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "41129",
+		"host_code": "41129",
+		"site_name": "MENYUMBUNG ex. TB_LOADERAS EX PENYINGGAHAN_MG_A ",
+		"cluster": "PONTIANAK",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "41130",
+		"host_code": "41130",
+		"site_name": "TB_Kamawen Ex. TB_BILITON",
+		"cluster": "PALANGKARAYA",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "41132",
+		"host_code": "41132",
+		"site_name": "TB_Ciptatani Ex. TB_Rimbasari",
+		"cluster": "SAMPIT",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "41136",
+		"host_code": "41136",
+		"site_name": "SUMBER MAHARDIKA GRAHA, PT (TB_SMGPANOPA) Ex. TB_ARKON",
+		"cluster": "SAMPIT",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "53013",
+		"host_code": "53013",
+		"site_name": "TB_TPAMANUHING ex TB_ADANIGBL",
+		"cluster": "PALANGKARAYA",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "53014",
+		"host_code": "53014",
+		"site_name": "TB_TMBGTUKUN Ex TB_Natajaya",
+		"cluster": "PALANGKARAYA",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "55000",
+		"host_code": "55000",
+		"site_name": "Data Bilang Ex Sidodadi H3I",
+		"cluster": "KOTA BANGUN",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "56000",
+		"host_code": "56000",
+		"site_name": "TB Dayung",
+		"cluster": "BONTANG",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "60036109",
+		"host_code": "72006",
+		"site_name": "Suban Tulu",
+		"cluster": "JAMBI",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "70052109",
+		"host_code": "73003",
+		"site_name": "Karang Agung 2nd",
+		"cluster": "PALEMBANG",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "70060109",
+		"host_code": "74005",
+		"site_name": "Sungai Ketupak",
+		"cluster": "PALEMBANG",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "70061109",
+		"host_code": "73006",
+		"site_name": "Sungai Lumpur",
+		"cluster": "PALEMBANG",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "70385109",
+		"host_code": "72009",
+		"site_name": "Muara Hemat\/Lubuk Beringin ex. Tombo Tombolok",
+		"cluster": "JAMBI",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "72008",
+		"host_code": "72008",
+		"site_name": "BUKIT BALING EX. Bayung Lencir",
+		"cluster": "JAMBI",
+		"monitoring": "SMS V2",
+		"customer": "STI"
+	}, {
+		"site_id": "75010",
+		"host_code": "75010",
+		"site_name": "TB_Sulung Ex. Way Narta",
+		"cluster": "LAMPUNG",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "80286",
+		"host_code": "80286",
+		"site_name": "Trans Sumatera Tanjung Raja Giham",
+		"cluster": "LAMPUNG",
+		"monitoring": "SMS V2",
+		"customer": "H3I"
+	}, {
+		"site_id": "80295",
+		"host_code": "80295",
+		"site_name": "Rawa jitu Blok 23- Catur Karya Unit 4",
+		"cluster": "LAMPUNG",
+		"monitoring": "SMS V2",
+		"customer": "H3I"
+	}, {
+		"site_id": "80296",
+		"host_code": "80296",
+		"site_name": "Rawa Jitu Blok 26 - Sidumulyo_2G",
+		"cluster": "LAMPUNG",
+		"monitoring": "SMS V2",
+		"customer": "H3I"
+	}, {
+		"site_id": "80297",
+		"host_code": "80297",
+		"site_name": "Poros - Tri Rejo Mulyo",
+		"cluster": "LAMPUNG",
+		"monitoring": "SMS V2",
+		"customer": "H3I"
+	}, {
+		"site_id": "80298",
+		"host_code": "80298",
+		"site_name": "Poros Rawa Jitu - Sidomukti",
+		"cluster": "LAMPUNG",
+		"monitoring": "SMS V2",
+		"customer": "H3I"
+	}, {
+		"site_id": "80299",
+		"host_code": "80299",
+		"site_name": "Raya Rawa Jitu Wono AGung - Wono Agung",
+		"cluster": "LAMPUNG",
+		"monitoring": "SMS V2",
+		"customer": "H3I"
+	}, {
+		"site_id": "80301",
+		"host_code": "80301",
+		"site_name": "Wilayah 61 Bumi Dipasena Agung - Rawa Jitu Timur",
+		"cluster": "LAMPUNG",
+		"monitoring": "SMS V2",
+		"customer": "H3I"
+	}, {
+		"site_id": "80352",
+		"host_code": "80352",
+		"site_name": "Labuhan Baru (SP. VI E Mesuji)",
+		"cluster": "LAMPUNG",
+		"monitoring": "SMS V1",
+		"customer": "H3I"
+	}, {
+		"site_id": "80360",
+		"host_code": "80360",
+		"site_name": "Panca Marga - Panca Marga",
+		"cluster": "LAMPUNG",
+		"monitoring": "Unknown",
+		"customer": "H3I"
+	}, {
+		"site_id": "90007109",
+		"host_code": "74003",
+		"site_name": "Penarik ex. Fajar Baru",
+		"cluster": "BENGKULU",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "BKG008",
+		"host_code": "87187",
+		"site_name": "RANTAU KASIH",
+		"cluster": "PEKANBARU OUTER",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "BKG072",
+		"host_code": "87048",
+		"site_name": "MUARA SILAYA 24",
+		"cluster": "PEKANBARU OUTER",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "BKG109",
+		"host_code": "87006",
+		"site_name": "PT ARINDO TRI SEJAHTERA 1 Ex Terantang ",
+		"cluster": "ROHUL 1",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "BKT509",
+		"host_code": "86018",
+		"site_name": "REP TAMBULUN",
+		"cluster": "PADANG",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "BLS038",
+		"host_code": "82002",
+		"site_name": "TASIK SERAI TIMUR",
+		"cluster": "DURI",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "BLS054",
+		"host_code": "87091",
+		"site_name": "TASIK SERAI WANGI Ex Lenggini",
+		"cluster": "DURI",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "BLS064",
+		"host_code": "87114",
+		"site_name": "PENYAGUN",
+		"cluster": "OUTER KEPRI",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "BLS148",
+		"host_code": "87176",
+		"site_name": "PEMATANG PUDU",
+		"cluster": "DURI",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "BLS169",
+		"host_code": "87227",
+		"site_name": "RENAK DUNGUN Ex Mahato",
+		"cluster": "SIAK-BENGKALIS",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "BLS170",
+		"host_code": "87178",
+		"site_name": "CENTAI Ex Meskom ",
+		"cluster": "SIAK-BENGKALIS",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "BLS181",
+		"host_code": "87167",
+		"site_name": "PUTAT",
+		"cluster": "DUMAI",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "BLS191",
+		"host_code": "87209",
+		"site_name": "KUALA PENASO Ex Pematang Ibul",
+		"cluster": "DURI",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "BLS238",
+		"host_code": "87207",
+		"site_name": "DESA HARAPAN BARU 2",
+		"cluster": "DURI",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "BLS671",
+		"host_code": "82001",
+		"site_name": "TANJUNG GADAI (P)",
+		"cluster": "SIAK-BENGKALIS",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "BTM040",
+		"host_code": "87213",
+		"site_name": "REMPANG RESORT Ex Teluk Lecah ",
+		"cluster": "BATAM-BINTAN ",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "DUM664",
+		"host_code": "87063",
+		"site_name": "BATU TRITIP",
+		"cluster": "DUMAI",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "GTS264",
+		"host_code": "86027",
+		"site_name": "TEOLO (New CDC) ",
+		"cluster": "MEDAN",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "KAL-CKL-0002-T-B",
+		"host_code": "41106",
+		"site_name": "PT_KAYUBULAN",
+		"cluster": "PALANGKARAYA",
+		"monitoring": "SMS V2",
+		"customer": "PROTELINDO"
+	}, {
+		"site_id": "KAL-CKL-0008-T-B",
+		"host_code": "41107",
+		"site_name": "PT_RUJI (TUMPNGLAUNG_MG_B)",
+		"cluster": "PALANGKARAYA",
+		"monitoring": "SMS V2",
+		"customer": "PROTELINDO"
+	}, {
+		"site_id": "KAL-SKL-0002-T-B",
+		"host_code": "41000",
+		"site_name": "Sei Betung",
+		"cluster": "BANJARMASIN",
+		"monitoring": "SMS V2",
+		"customer": "PROTELINDO"
+	}, {
+		"site_id": "KAL-SKL-0006-T-B",
+		"host_code": "53005",
+		"site_name": "PT_SEISULUNG",
+		"cluster": "BANJARMASIN",
+		"monitoring": "SMS V2",
+		"customer": "PROTELINDO"
+	}, {
+		"site_id": "KAL-SKL-0120-T-B",
+		"host_code": "41004",
+		"site_name": "Desa Sukamaju",
+		"cluster": "BANJARMASIN",
+		"monitoring": "SMS V2",
+		"customer": "PROTELINDO"
+	}, {
+		"site_id": "KNT-ENT-0001-T-B",
+		"host_code": "10003",
+		"site_name": "REPWOLOWARU2",
+		"cluster": "KUPANG",
+		"monitoring": "SMS V2",
+		"customer": "PROTELINDO"
+	}, {
+		"site_id": "KOT081",
+		"host_code": "75009",
+		"site_name": "Gunung Sari Tenggamus Ex Tanjung medang kantor kebun Tsel",
+		"cluster": "LAMPUNG",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "LBB092",
+		"host_code": "87164",
+		"site_name": "TOWER BASUNG",
+		"cluster": "PADANG",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "LIW090",
+		"host_code": "75011",
+		"site_name": "Repeater Srengit Ex Desa Tanjung Dalam (Napal Putih) Ex Tasik Serai Wangi PKU ",
+		"cluster": "LAMPUNG",
+		"monitoring": "SMS V2",
+		"customer": "PROTELINDO"
+	}, {
+		"site_id": "LSK003",
+		"host_code": "86022",
+		"site_name": "PT BTN",
+		"cluster": "PADANG",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "LSK031",
+		"host_code": "86014",
+		"site_name": "MAPAT TUNGGUL SELATAN",
+		"cluster": "PADANG",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "MSJ004",
+		"host_code": "86013",
+		"site_name": "PT SAK KARET",
+		"cluster": "PADANG",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "NAB014",
+		"host_code": "99000",
+		"site_name": "Lagari",
+		"cluster": "PAPUA",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "OKI091",
+		"host_code": "72012",
+		"site_name": "Tulung Gelam Lonsum ex Sp Tugu Tanjung medan TSEL",
+		"cluster": "PALEMBANG",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "PKR005",
+		"host_code": "87230",
+		"site_name": "PEMATANG TINGGI",
+		"cluster": "UKUI PELAWAN",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "PKR048",
+		"host_code": "87214",
+		"site_name": "PULAU MUDA 2 SKP Salabenda",
+		"cluster": "PEKANBARU OUTER",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "PKR102",
+		"host_code": "87177",
+		"site_name": "BETUNG",
+		"cluster": "UKUI PELAWAN",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "PKR109",
+		"host_code": "87224",
+		"site_name": "RANGSANG ex Pecing Bengkulu ",
+		"cluster": "UKUI PELAWAN",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "PKR113",
+		"host_code": "87070",
+		"site_name": "TELUK BINJAI Ex TBG Lambunu ( Ex Sulawesi )",
+		"cluster": "UKUI PELAWAN",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "PKR114",
+		"host_code": "87071",
+		"site_name": "TANJUNG AIR HITAM ex Beringin ",
+		"cluster": "UKUI PELAWAN",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "PKR116",
+		"host_code": "87215",
+		"site_name": "LABUHAN BILIK Ex Matako",
+		"cluster": "OUTER KEPRI",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "PKR123",
+		"host_code": "87195",
+		"site_name": "BANJAR PANJANG",
+		"cluster": "UKUI PELAWAN",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "PKR144",
+		"host_code": "87218",
+		"site_name": "MANDIAN GAJAH Ex Simpang Petai ",
+		"cluster": "PEKANBARU OUTER",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "PKR533",
+		"host_code": "85000",
+		"site_name": "PULAU MUDA 1 Ex Buluh Rampai ",
+		"cluster": "PEKANBARU OUTER",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "PKR573",
+		"host_code": "87144",
+		"site_name": "BANDAR PETALANGAN",
+		"cluster": "UKUI PELAWAN",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "PKR586",
+		"host_code": "85001",
+		"site_name": "PT SURYA BRANTASENA PLANTATION",
+		"cluster": "UKUI PELAWAN",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "PKR653",
+		"host_code": "87134",
+		"site_name": "SUNGAI MEDANG Ex Bandar Petalangan Rework 48",
+		"cluster": "PEKANBARU OUTER",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "PNN101",
+		"host_code": "86025",
+		"site_name": "PT SODETAN INCASI",
+		"cluster": "PADANG",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "PPN069",
+		"host_code": "87130",
+		"site_name": "SUKADAMAI TAMBUSAI",
+		"cluster": "ROHUL 3",
+		"monitoring": "SMS V2",
+		"customer": "EBJ"
+	}, {
+		"site_id": "PPN073",
+		"host_code": "87128",
+		"site_name": "KEPENUHAN JAYA",
+		"cluster": "ROHUL 2",
+		"monitoring": "SMS V2",
+		"customer": "EBJ"
+	}, {
+		"site_id": "PPN076",
+		"host_code": "87129",
+		"site_name": "PAGAR MAYANG",
+		"cluster": "ROHUL 3",
+		"monitoring": "SMS V2",
+		"customer": "EBJ"
+	}, {
+		"site_id": "PPN130",
+		"host_code": "87221",
+		"site_name": "SEI ROKAN Ex Arara Abadi ",
+		"cluster": "ROHUL 1",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "PPN145",
+		"host_code": "87222",
+		"site_name": "SEI LINDAI Ex Kepenuhan Barat Mulia",
+		"cluster": "ROHUL 1",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "PPN150",
+		"host_code": "87089",
+		"site_name": "PT TORUS TORGANDA",
+		"cluster": "ROHUL 3",
+		"monitoring": "SMS V2",
+		"customer": "EBJ"
+	}, {
+		"site_id": "PPN172",
+		"host_code": "87169",
+		"site_name": "BETUNG SONTANG ExTsel Gudang ",
+		"cluster": "DURI",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "PPN176",
+		"host_code": "87159",
+		"site_name": "SIMPANG DEMON",
+		"cluster": "ROHUL 3",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "PPN219",
+		"host_code": "87229",
+		"site_name": "SUNGAI KUTI",
+		"cluster": "ROHUL 1",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "PPN221",
+		"host_code": "87151",
+		"site_name": "PELANDUK KOTA LAMA",
+		"cluster": "ROHUL 1",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "PPN525",
+		"host_code": "87098",
+		"site_name": "RANTAU KASAI GSM",
+		"cluster": "ROHUL 3",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "PPN536",
+		"host_code": "87005",
+		"site_name": "MAHATO",
+		"cluster": "ROHUL 3",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "PPN545",
+		"host_code": "87076",
+		"site_name": "BANGUN JAYA 48 Ex Koto Solok",
+		"cluster": "ROHUL 3",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "PPN545.",
+		"host_code": "87228",
+		"site_name": "BANGUN JAYA 24",
+		"cluster": "ROHUL 3",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "PPN548",
+		"host_code": "87018",
+		"site_name": "MUARA DILAM 24V (DCS)",
+		"cluster": "ROHUL 2",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "PPN548.",
+		"host_code": "87139",
+		"site_name": "MUARA DILAM 48V Ex Batang Cenaku (GSM)",
+		"cluster": "ROHUL 2",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "PPN555",
+		"host_code": "82009",
+		"site_name": "SIMPANG KAMBING",
+		"cluster": "DURI",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "PPN606",
+		"host_code": "87223",
+		"site_name": "PTPN V Terantam Ex Gudang PKU ",
+		"cluster": "ROHUL 1",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "PPN614",
+		"host_code": "87019",
+		"site_name": "KAMPUNG MORINI",
+		"cluster": "ROHUL 2",
+		"monitoring": "SMS V2",
+		"customer": "EBJ"
+	}, {
+		"site_id": "PPN617",
+		"host_code": "85004",
+		"site_name": "SEI MANDING",
+		"cluster": "ROHUL 1",
+		"monitoring": "SMS V2",
+		"customer": "EBJ"
+	}, {
+		"site_id": "PPN669",
+		"host_code": "87064",
+		"site_name": "SEI PABASO",
+		"cluster": "ROHUL 1",
+		"monitoring": "SMS V2",
+		"customer": "EBJ"
+	}, {
+		"site_id": "PPN672",
+		"host_code": "87062",
+		"site_name": "MEKARJAYA TAMBUSAI",
+		"cluster": "ROHUL 3",
+		"monitoring": "SMS V2",
+		"customer": "EBJ"
+	}, {
+		"site_id": "RAI006",
+		"host_code": "87185",
+		"site_name": "BUNGURAN BARAT",
+		"cluster": "OUTER KEPRI",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "RGT124",
+		"host_code": "87202",
+		"site_name": "KUALA LALA ex Serosah",
+		"cluster": "UKUI PELAWAN",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "RGT150",
+		"host_code": "87210",
+		"site_name": "SIMPANG KERITANG",
+		"cluster": "RENGAT",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "TAK132",
+		"host_code": "87196",
+		"site_name": "SERANGGE 3",
+		"cluster": "PEKANBARU OUTER",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "RGT605",
+		"host_code": "88005",
+		"site_name": "TASIK JUANG Ex Kulim Jaya 3",
+		"cluster": "UKUI PELAWAN",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "SLK578",
+		"host_code": "86008",
+		"site_name": "LUBUK ULANG ALING",
+		"cluster": "PADANG",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "SRJ036",
+		"host_code": "72011",
+		"site_name": "Muara Madras Ex SP 4 Sei Lembu Makmur Tsel",
+		"cluster": "JAMBI",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "SS002-PDM002",
+		"host_code": "73005",
+		"site_name": "PADAMARAN TIMUR",
+		"cluster": "PALEMBANG",
+		"monitoring": "SMS V2",
+		"customer": "STI"
+	}, {
+		"site_id": "SSI528",
+		"host_code": "87015",
+		"site_name": "PAKET I Ex Paket C",
+		"cluster": "SIAK-BENGKALIS",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "SSI666",
+		"host_code": "87120",
+		"site_name": "EMPANG PANDAN",
+		"cluster": "SIAK-BENGKALIS",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "STR1",
+		"host_code": "1111",
+		"site_name": "Indominco",
+		"cluster": "BONTANG",
+		"monitoring": "SMS V1",
+		"customer": "STARCOMS"
+	}, {
+		"site_id": "SUM-BKL-0002-T-B",
+		"host_code": "74006",
+		"site_name": "Tanjung Muara",
+		"cluster": "BENGKULU",
+		"monitoring": "SMS V2",
+		"customer": "PROTELINDO"
+	}, {
+		"site_id": "SUM-JMB-0004-T-B",
+		"host_code": "72004",
+		"site_name": "Sekamis (Rep Batang Asai)",
+		"cluster": "JAMBI",
+		"monitoring": "SMS V2",
+		"customer": "PROTELINDO"
+	}, {
+		"site_id": "SUM-JMB-0005-T-B",
+		"host_code": "72005",
+		"site_name": "Sei Baung",
+		"cluster": "JAMBI",
+		"monitoring": "SMS V2",
+		"customer": "PROTELINDO"
+	}, {
+		"site_id": "SUM-SSM-0051-T-B",
+		"host_code": "72013",
+		"site_name": "Sungai Jeruju ex Rukun Makmur ex Kubang Raya (PKU) ",
+		"cluster": "PALEMBANG",
+		"monitoring": "SMS V2",
+		"customer": "PROTELINDO"
+	}, {
+		"site_id": "T002972",
+		"host_code": "51005",
+		"site_name": "TB_SWAKARSA",
+		"cluster": "MUARA WAHAU",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "T002975",
+		"host_code": "53008",
+		"site_name": "TB_MIAUBARU",
+		"cluster": "MUARA WAHAU",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "TAK125",
+		"host_code": "87188",
+		"site_name": "MUARA PETAI",
+		"cluster": "PEKANBARU OUTER",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "TAK128",
+		"host_code": "87161",
+		"site_name": "GUNUNG MELINTANG",
+		"cluster": "PEKANBARU OUTER",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "TBH014",
+		"host_code": "87112",
+		"site_name": "MAHONI",
+		"cluster": "TEMBILAHAN KEPULAUAN",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "TBH035",
+		"host_code": "88006",
+		"site_name": "SUNGAI BELA Ex Pekan Kemis ",
+		"cluster": "TEMBILAHAN KEPULAUAN",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "TBH044",
+		"host_code": "87126",
+		"site_name": "DESA KARYA TANI Ex Danau Cala",
+		"cluster": "RENGAT",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "TBH046",
+		"host_code": "87119",
+		"site_name": "PELANDUK",
+		"cluster": "TEMBILAHAN KEPULAUAN",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "TBH055",
+		"host_code": "88002",
+		"site_name": "TELUK KABUNG (SC-TH5249C)",
+		"cluster": "TEMBILAHAN KEPULAUAN",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "TBH103",
+		"host_code": "87121",
+		"site_name": "RSUP WIL IV Ex SKP Lamandong",
+		"cluster": "TEMBILAHAN KEPULAUAN",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "TBH111",
+		"host_code": "87171",
+		"site_name": "MGI PULAI ( Cendana Estate ) Ex Tsel Gudang ",
+		"cluster": "TEMBILAHAN KEPULAUAN",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "TBH136",
+		"host_code": "87204",
+		"site_name": "PARIT MARTAPURA Ex Mudik Ulo",
+		"cluster": "TEMBILAHAN KEPULAUAN",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "TBH137",
+		"host_code": "87206",
+		"site_name": "SEPAKAT JAYA Ex Pantai Lubukramo ",
+		"cluster": "TEMBILAHAN KEPULAUAN",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "TBH139",
+		"host_code": "87225",
+		"site_name": "BIDARI ex Pulau Kecil",
+		"cluster": "TEMBILAHAN KEPULAUAN",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "TBH142",
+		"host_code": "87174",
+		"site_name": "PARIT LAJER Ex Pelabuhan Samudera",
+		"cluster": "TEMBILAHAN KEPULAUAN",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "TBH681",
+		"host_code": "87097",
+		"site_name": "KUALA PATAH PARANG",
+		"cluster": "TEMBILAHAN KEPULAUAN",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "TBH703",
+		"host_code": "87181",
+		"site_name": "SUNGAI TERITIP Ex Penerbangan Pamak ",
+		"cluster": "TEMBILAHAN KEPULAUAN",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "TBK009",
+		"host_code": "87208",
+		"site_name": "PELABUHAN BURU Ex Mentari Klasik ",
+		"cluster": "OUTER KEPRI",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "TBK015",
+		"host_code": "87216",
+		"site_name": "DESA LEBUH Ex Molotong Ex Masani",
+		"cluster": "OUTER KEPRI",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "TBK514",
+		"host_code": "84001",
+		"site_name": "TJ.HUTAN PULAU PAPAN",
+		"cluster": "OUTER KEPRI",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "TBK521",
+		"host_code": "84002",
+		"site_name": "PULAU PARIT",
+		"cluster": "OUTER KEPRI",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "TBK524",
+		"host_code": "87118",
+		"site_name": "PULAU TOPANG",
+		"cluster": "OUTER KEPRI",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "TEMP_003",
+		"host_code": "41125",
+		"site_name": "TB_PANOPA \/ ABADI BUANA LESTARI, PT Ex. Tampang Ex TBG Tinompo",
+		"cluster": "SAMPIT",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "TEMP_039",
+		"host_code": "41119",
+		"site_name": "Sepanjang Inti Surya 2 Ex. SKP Malala Ex New Tinabogan_GSM_2",
+		"cluster": "PONTIANAK",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "TPI006",
+		"host_code": "87212",
+		"site_name": "PULAU MAPUR ex Beringin indah ",
+		"cluster": "BATAM-BINTAN ",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "TPI028",
+		"host_code": "87201",
+		"site_name": "MAROK KECIL ex Desa Suhada ",
+		"cluster": "BATAM-BINTAN ",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "TPI601",
+		"host_code": "87184",
+		"site_name": "MENSANAK",
+		"cluster": "BATAM-BINTAN ",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "UJT043",
+		"host_code": "87198",
+		"site_name": "DUSUN AMPAIAN",
+		"cluster": "DUMAI",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "UJT074",
+		"host_code": "87160",
+		"site_name": "PENDEKAR BAHAN",
+		"cluster": "DUMAI",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "UJT081",
+		"host_code": "87203",
+		"site_name": "TELUK PIAYI Ex Gurun Panjang Ex Padang Tarap ",
+		"cluster": "DUMAI",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "UJT623",
+		"host_code": "87147",
+		"site_name": "BANGKO LANGKAT",
+		"cluster": "DUMAI",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "UJT709",
+		"host_code": "87153",
+		"site_name": "PT IVOMAS ex Rambah Utama ",
+		"cluster": "DUMAI",
+		"monitoring": "SMS V2",
+		"customer": "EBJ"
+	}, {
+		"site_id": "BTM729",
+		"host_code": "87233",
+		"site_name": "Pulau Buluh",
+		"cluster": "BATAM-BINTAN ",
+		"monitoring": "SMS V2",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "MGA112",
+		"host_code": "80361",
+		"site_name": "Rawa Pitu 2 \/ Batu Ampar",
+		"cluster": "LAMPUNG",
+		"monitoring": "SMS V1",
+		"customer": "CENTRATAMA"
+	}, {
+		"site_id": "60170109",
+		"host_code": "72014",
+		"site_name": "Beringin Sakernan Ex Rantau Rassau 3",
+		"cluster": "JAMBI",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "BLS102",
+		"host_code": "87235",
+		"site_name": "Lukun",
+		"cluster": "PEKANBARU OUTER",
+		"monitoring": "SMS V2",
+		"customer": "TBG"
+	}, {
+		"site_id": "TBK014",
+		"host_code": "87244",
+		"site_name": "Desa Pauh",
+		"cluster": "PEKANBARU OUTER",
+		"monitoring": "Unknown",
+		"customer": "TBG"
+	}, {
+		"site_id": "BLS144",
+		"host_code": "87236",
+		"site_name": "TALANG MANDI",
+		"cluster": "OUTER KEPRI",
+		"monitoring": "Unknown",
+		"customer": "TBG"
+	}, {
+		"site_id": "BTM093",
+		"host_code": "87237",
+		"site_name": "Pulau Pemping",
+		"cluster": "PEKANBARU OUTER",
+		"monitoring": "Unknown",
+		"customer": "TBG"
+	}, {
+		"site_id": "TBK535",
+		"host_code": "87238",
+		"site_name": "LUBUK PUDING",
+		"cluster": "PEKANBARU OUTER",
+		"monitoring": "Unknown",
+		"customer": "TBG"
+	}, {
+		"site_id": "RGT625",
+		"host_code": "87239",
+		"site_name": "KOTO BARU RAKIT KULIM",
+		"cluster": "PEKANBARU OUTER",
+		"monitoring": "SMS V1",
+		"customer": "TBG"
+	}, {
+		"site_id": "TAK073",
+		"host_code": "87240",
+		"site_name": "Tanah Bekali",
+		"cluster": "PEKANBARU OUTER",
+		"monitoring": "Unknown",
+		"customer": "TBG"
+	}, {
+		"site_id": "TBH708",
+		"host_code": "87241",
+		"site_name": "Tanjung Simpang",
+		"cluster": "PEKANBARU OUTER",
+		"monitoring": "Unknown",
+		"customer": "TBG"
+	}, {
+		"site_id": "TBK012",
+		"host_code": "87242",
+		"site_name": "Pulau Sanglar",
+		"cluster": "PEKANBARU OUTER",
+		"monitoring": "Unknown",
+		"customer": "TBG"
+	}, {
+		"site_id": "TBK013",
+		"host_code": "87243",
+		"site_name": "Selat Mie",
+		"cluster": "PEKANBARU OUTER",
+		"monitoring": "Unknown",
+		"customer": "TBG"
+	}, {
+		"site_id": "TPI003",
+		"host_code": "87245",
+		"site_name": "Pulau Cempa",
+		"cluster": "PEKANBARU OUTER",
+		"monitoring": "Unknown",
+		"customer": "TBG"
+	}, {
+		"site_id": "PPN175",
+		"host_code": "87246",
+		"site_name": "Desa Bonai",
+		"cluster": "PEKANBARU OUTER",
+		"monitoring": "Unknown",
+		"customer": "TBG"
+	}, {
+		"site_id": "TBH685",
+		"host_code": "87247",
+		"site_name": "Tanjung Baru",
+		"cluster": "PEKANBARU OUTER",
+		"monitoring": "Unknown",
+		"customer": "TBG"
+	}, {
+		"site_id": "TPI025",
+		"host_code": "87248",
+		"site_name": "Pulau Karas 2 ( Tangpeo Besar)",
+		"cluster": "PEKANBARU OUTER",
+		"monitoring": "Unknown",
+		"customer": "TBG"
+	}, {
+		"site_id": "SSI919",
+		"host_code": "87249",
+		"site_name": "Pasar Seroja",
+		"cluster": "PEKANBARU OUTER",
+		"monitoring": "Unknown",
+		"customer": "TBG"
+	}, {
+		"site_id": "PKR661",
+		"host_code": "87250",
+		"site_name": "SP Mayangsari \/ Mayangsari 2",
+		"cluster": "PEKANBARU OUTER",
+		"monitoring": "Unknown",
+		"customer": "TBG"
+	}, {
+		"site_id": "BLS173",
+		"host_code": "87251",
+		"site_name": "MENGKIRAU",
+		"cluster": "SIAK-BENGKALIS",
+		"monitoring": "Unknown",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "TAK654",
+		"host_code": "87234",
+		"site_name": "Lintas Koran",
+		"cluster": "PEKANBARU OUTER",
+		"monitoring": "Unknown",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "OKI086",
+		"host_code": "75023",
+		"site_name": "SukaSari",
+		"cluster": "PALEMBANG",
+		"monitoring": "Unknown",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "MGA087",
+		"host_code": "75017",
+		"site_name": "Wonosari Mesuji",
+		"cluster": "LAMPUNG",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "GNS101",
+		"host_code": "75019",
+		"site_name": "SP 2 Way Terusan",
+		"cluster": "LAMPUNG",
+		"monitoring": "Unknown",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "MGA076",
+		"host_code": "75020",
+		"site_name": "Medasari",
+		"cluster": "LAMPUNG",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "MGA160",
+		"host_code": "75021",
+		"site_name": "Pasar Batang",
+		"cluster": "LAMPUNG",
+		"monitoring": "Unknown",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "LIW063",
+		"host_code": "75029",
+		"site_name": "Kota Jawa",
+		"cluster": "LAMPUNG",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "LHT072",
+		"host_code": "75030",
+		"site_name": "Sukarami Kikim",
+		"cluster": "PALEMBANG",
+		"monitoring": "Unknown",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "MGA073",
+		"host_code": "75018",
+		"site_name": "Unit Dua",
+		"cluster": "LAMPUNG",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "MGA090",
+		"host_code": "75026",
+		"site_name": "Gunung Tapa Ilir",
+		"cluster": "LAMPUNG",
+		"monitoring": "Unknown",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "BKO045",
+		"host_code": "72010",
+		"site_name": "Desa Tuo",
+		"cluster": "JAMBI",
+		"monitoring": "SMS V1",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "BKO044",
+		"host_code": "75024",
+		"site_name": "Peradun Temeras",
+		"cluster": "JAMBI",
+		"monitoring": "SMS V2",
+		"customer": "MITRATEL"
+	}, {
+		"site_id": "UJT046",
+		"host_code": "87252",
+		"site_name": "Tanjung Sari",
+		"cluster": "DUMAI",
+		"monitoring": "SMS V1",
+		"customer": "TELKOMSEL"
+	}, {
+		"site_id": "BKG700",
+		"host_code": "87272",
+		"site_name": "Sam Tapung",
+		"cluster": "ROHUL 1",
+		"monitoring": "Unknown",
+		"customer": "TELKOMSEL"
+	}],
+	"success": 1
+}

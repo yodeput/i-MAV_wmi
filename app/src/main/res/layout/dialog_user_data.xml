@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp"
+    android:fitsSystemWindows="true"
+    android:background="#F08519">
+
+    <TextView
+        android:text="USER DATA"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView28"
+        android:textStyle="normal|bold"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif"
+        android:textColor="@color/button_black"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="10dp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:elevation="0dp"
+        android:layout_marginTop="35sp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:elevation="0dp">
+
+            <TextView
+                android:text="Email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView26"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="25dp"
+                android:textSize="14sp"
+                android:textColor="@color/button_black"
+                android:textStyle="normal|bold"/>
+
+
+            <EditText
+                android:id="@+id/input_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/cardview_light_background"
+                android:padding="10dp"
+                android:singleLine="false"
+                android:textColor="@color/editText_text"
+                android:textColorHint="@color/editText_hint"
+                android:layout_marginTop="5dp"
+                android:cursorVisible="true"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:hint="Email"
+                android:elevation="@dimen/cardview_default_elevation"
+                android:inputType="text" />
+
+            <TextView
+                android:text="Telepon 1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView21"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="25dp"
+                android:textSize="14sp"
+                android:textColor="@color/button_black"
+                android:textStyle="normal|bold"/>
+
+            <EditText
+                android:id="@+id/input_phone1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/cardview_light_background"
+                android:padding="10dp"
+                android:singleLine="false"
+                android:textColor="@color/editText_text"
+                android:textColorHint="@color/editText_hint"
+                android:layout_marginTop="10dp"
+                android:cursorVisible="true"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:hint="Nomor Telepon"
+                android:elevation="@dimen/cardview_default_elevation"
+                android:inputType="text" />
+
+            <TextView
+                android:text="Telepon 2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView22"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="25dp"
+                android:textSize="14sp"
+                android:textColor="@color/button_black"
+                android:textStyle="normal|bold"/>
+
+            <EditText
+                android:id="@+id/input_phone2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/cardview_light_background"
+                android:padding="10dp"
+                android:singleLine="false"
+                android:textColor="@color/editText_text"
+                android:textColorHint="@color/editText_hint"
+                android:layout_marginTop="5dp"
+                android:cursorVisible="true"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:hint="Nomor Telepon"
+                android:elevation="@dimen/cardview_default_elevation"
+                android:inputType="text" />
+
+            <TextView
+                android:text="Alamat"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView23"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="25dp"
+                android:textSize="14sp"
+                android:textColor="@color/button_black"
+                android:textStyle="normal|bold"/>
+
+            <EditText
+                android:id="@+id/input_address"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:background="@color/cardview_light_background"
+                android:padding="10dp"
+                android:singleLine="false"
+                android:textColor="@color/editText_text"
+                android:textColorHint="@color/editText_hint"
+                android:layout_marginTop="5dp"
+                android:cursorVisible="true"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:hint="Alamat"
+                android:elevation="@dimen/cardview_default_elevation"
+                android:inputType="textMultiLine" />
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

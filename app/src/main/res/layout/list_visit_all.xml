@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
+    card_view:cardElevation="5dp"
+    card_view:cardCornerRadius="5dp"
+    android:elevation="10dp">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_margin="8dp"
+       >
+
+    <!-- Product id (pid) - will be HIDDEN - used to pass to other activity -->
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:elevation="0dp"
+            android:gravity="center_vertical">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <TextView
+                    android:text="Site ID"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView29"
+                    android:textStyle="normal|bold"
+                    android:textColor="@color/blue_dongker" />
+
+                <TextView
+                android:id="@+id/txt_siteid"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                    android:text="siteID"
+                    android:textSize="16sp"
+                    android:layout_marginLeft="8dp"
+                    android:textColor="@color/blue800" />
+
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <TextView
+                    android:text="Lusyta ID"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView38"
+                    android:textStyle="normal|bold"
+                    android:textColor="@color/blue_dongker" />
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="22sp"
+                    android:gravity="center_vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/txt_ongoing"
+                        android:textStyle="normal|bold"
+                        android:textColor="@android:color/holo_red_dark"
+                        android:textSize="18sp"
+                        android:layout_toRightOf="@+id/txt_hostcode"
+                        android:layout_toEndOf="@+id/txt_hostcode"
+                        android:layout_marginLeft="10sp"
+               />
+
+                    <TextView
+                        android:id="@+id/txt_hostcode"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="HostCode"
+                        android:textSize="16sp"
+                        android:textColor="@color/blue800"
+                        android:layout_alignBottom="@+id/txt_ongoing"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="8sp" />
+                </RelativeLayout>
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <TextView
+                    android:text="Site Name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView30"
+                    android:textStyle="normal|bold"
+                    android:layout_marginTop="3dp"
+                    android:textColor="@color/bg_login" />
+
+                <TextView
+                    android:id="@+id/txt_sitename"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="16sp"
+                    android:text="siteName"
+                    android:layout_alignParentTop="true"
+                    android:layout_toRightOf="@+id/txt_siteid"
+                    android:layout_toEndOf="@+id/txt_siteid"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginLeft="8dp"
+                    android:textColor="@color/bg_login" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <TextView
+                    android:text="Date Time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView35"
+                    android:textStyle="normal|bold"
+                    android:layout_marginTop="3dp"
+                    android:textColor="@color/bg_login" />
+
+                <TextView
+                    android:id="@+id/txt_starttime"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="starttime"
+                    android:layout_below="@+id/txt_kategori"
+                    android:textSize="16sp"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginLeft="8dp"
+                    android:textColor="@color/bg_login" />
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <TextView
+                    android:text="Activity"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView36"
+                    android:textStyle="normal|bold"
+                    android:layout_marginTop="3dp"
+                    android:textColor="@color/bg_login" />
+
+                <TextView
+                android:id="@+id/txt_kategori"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                    android:text="kategori"
+                android:layout_below="@+id/txt_pic"
+                    android:textSize="20sp"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginLeft="8dp"
+                    android:textColor="@color/bg_login" />
+
+            </TableRow>
+
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone">
+
+                <TextView
+                    android:text="Action by"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView37"
+                    android:textStyle="normal|bold"
+                    android:textSize="14sp"
+                    android:layout_marginTop="3dp"
+                    android:textColor="@color/bg_login"
+                    android:visibility="visible" />
+
+                <TextView
+                android:id="@+id/txt_pic"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                    android:textSize="14sp"
+                    android:text="PIC"
+                android:layout_below="@+id/txt_sitename"
+                    android:textStyle="normal|bold"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginLeft="8dp"
+                    android:textColor="@color/bg_login"
+                    android:visibility="visible" />
+
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txt_remark" />
+
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txt_cluster" />
+
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txt_monitoring" />
+
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txt_customer" />
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical|center_horizontal">
+
+            </TableRow>
+        </TableLayout>
+
+        <!-- Name Label -->
+
+
+
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

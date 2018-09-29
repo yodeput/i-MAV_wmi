@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\NOC WMI\.android\build-cache\cf730adc1c051a0cb6e50438d750095f5dcafba4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="K:\Android\Project\WMICheck\app\build\intermediates\pre-dexed\release\classes_1d56c2d1ec9f3ff6dfa2060a2e577a08df5f94c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NOC WMI\.android\build-cache\0a4aa86f74e39a75d8d51cc975ca6e2790f845f6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="K:\Android\Project\WMICheck\app\build\intermediates\pre-dexed\release\classes_036a906432602d06a3900dc98cdef6e5823a81aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="K:\Android\Project\WMICheck\app\build\intermediates\pre-dexed\release\support-annotations-24.1.1_ffe59bdcb5b0a046dc92d72ef4ba61f58055eb46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NOC WMI\.android\build-cache\95a5de018028ad6e58ef29069ead61dab0df7c3a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95b97c30c8331619a9cc560ba9c3adb806e00ead">
+        <dex dex="K:\Android\Project\WMICheck\app\build\intermediates\pre-dexed\release\classes_e05ac273da7aa3c7da272a35d51b5376d41e627c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NOC WMI\.android\build-cache\9fc60652d5828fab28bd12a45cc761fd90b28e48\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="K:\Android\Project\WMICheck\app\build\intermediates\pre-dexed\release\classes_157ef35a2def3ff55d33fdd33c8811f8815222c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NOC WMI\.android\build-cache\9af1bc656059db2ce2f1b14011d370f944700c6e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="24a746ed49aea913f5f009715c49e01a8d758e3f">
+        <dex dex="K:\Android\Project\WMICheck\app\build\intermediates\pre-dexed\release\classes_879992d955b5ef8c8f31e5114f1ef82a3116a597.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NOC WMI\.android\build-cache\862e662f599b856a7579253f20d858fb1a13bea6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3fb1fe781490fcf9fa47ee2c268279f777266a6a">
+        <dex dex="K:\Android\Project\WMICheck\app\build\intermediates\pre-dexed\release\classes_ce461046776090905d9c0fd3c0362564efd1fe1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NOC WMI\.android\build-cache\5eef0731b7cb0a9afa47761403438c4b132f8dc2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb9f1cef6b29492df701111c555908cb53dece35">
+        <dex dex="K:\Android\Project\WMICheck\app\build\intermediates\pre-dexed\release\classes_8f0dc33a204e2acdd901e4726fb6a27aab1e7cc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NOC WMI\.android\build-cache\0a0506fd40104b145d8b4c4930d3e53c5a33615e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="K:\Android\Project\WMICheck\app\build\intermediates\pre-dexed\release\classes_01dba852b0b9161cce8c352d78417f574b1cb247.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NOC WMI\.android\build-cache\c82857b7ac7e0656b0b42d7fb170126db2654192\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="K:\Android\Project\WMICheck\app\build\intermediates\pre-dexed\release\classes_d47a5beecdb0de5371ce8a2939ae286dc32dc03f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NOC WMI\.android\build-cache\a84e7bb321c984eaa8dca1da2e89379a23d3e16b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a32a39a9fcae3d354a312cdb78c18159fa702e6">
+        <dex dex="K:\Android\Project\WMICheck\app\build\intermediates\pre-dexed\release\classes_93584c843a14d5dd54b2038b1dbdcbc8321d2729.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NOC WMI\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="K:\Android\Project\WMICheck\app\build\intermediates\pre-dexed\release\glide-3.7.0_7ce35e1a0161e384f0d9f5909df9654c436af732.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NOC WMI\.android\build-cache\f6e42aa1459edbc385f8584833c82bfb8c61d778\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="K:\Android\Project\WMICheck\app\build\intermediates\pre-dexed\release\classes_1cfbec131c9de3b0043eb1c19db51aef5923e9ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NOC WMI\.android\build-cache\5565e121179352cb3d0b71ff0fa6d62821da1142\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="K:\Android\Project\WMICheck\app\build\intermediates\pre-dexed\release\classes_758babeb6da2e1bcb8506bb350eb173b1a162f85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NOC WMI\.android\build-cache\6d8794a0894a1e34bb75ed57cef6e621580528ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df451c6f391e3e32022fc964ed87bd57a5869128">
+        <dex dex="K:\Android\Project\WMICheck\app\build\intermediates\pre-dexed\release\classes_f7a3f7007df1fb1f5e055f207f3a3090182dddee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NOC WMI\.android\build-cache\9d95630e791e33c14fb50ce54c37472428f0ac22\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="K:\Android\Project\WMICheck\app\build\intermediates\pre-dexed\release\classes_99b78836d7456eb048c82e317a2a04b577a819af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NOC WMI\.android\build-cache\77dc94cc7324b6a7caf9620151c7cb64d5b8fb7c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="288913b440a3c61c30aa171095453a605432277a">
+        <dex dex="K:\Android\Project\WMICheck\app\build\intermediates\pre-dexed\release\classes_4ab3a47bfe7a2b4eae8ae21d04414625e7c95543.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NOC WMI\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="K:\Android\Project\WMICheck\app\build\intermediates\pre-dexed\release\picasso-2.5.2_8b25098e7c1eb56bafe68c4052a4b4ab92c509ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NOC WMI\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="K:\Android\Project\WMICheck\app\build\intermediates\pre-dexed\release\library-2.4.0_a1e497c75a3a09bddea6841d81b52c578b98e736.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NOC WMI\.android\build-cache\0a4aa86f74e39a75d8d51cc975ca6e2790f845f6\output\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="K:\Android\Project\WMICheck\app\build\intermediates\pre-dexed\release\internal_impl-24.1.1_4a8ee3bff35b98292842c10dc592b07027bf90a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NOC WMI\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="K:\Android\Project\WMICheck\app\build\intermediates\pre-dexed\release\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_7f9083eb3c53507a82c267c2155541d38ab50295.jar" />
+    </item>
+
+</items>

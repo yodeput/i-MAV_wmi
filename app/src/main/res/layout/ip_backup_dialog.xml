@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/primary"
+    android:padding="5dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView28"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:fontFamily="sans-serif"
+            android:text="IP Backup"
+            android:textColor="@color/bg_login"
+            android:textSize="20sp"
+            android:textStyle="normal|bold" />
+
+
+        <LinearLayout
+            android:id="@+id/custom_ip_lin"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView299"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="5dp"
+                android:text="IP Backup"
+                android:textColor="@color/bg_login"
+                android:textSize="14sp"
+                android:textStyle="normal|bold" />
+
+            <EditText
+                android:id="@+id/input_ip_backup"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginTop="10dp"
+                android:background="@color/cardview_light_background"
+                android:cursorVisible="true"
+                android:inputType="textEmailAddress"
+                android:padding="10dp"
+                android:paddingRight="35dp"
+                android:singleLine="true"
+                android:textColor="@color/lbl_name"
+                android:textColorHint="@color/input_register_hint" />
+
+            <TextView
+                android:id="@+id/textView266"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="5dp"
+                android:text="Port"
+                android:textColor="@color/bg_login"
+                android:textSize="14sp"
+                android:textStyle="normal|bold" />
+
+            <EditText
+                android:id="@+id/input_port"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginTop="10dp"
+                android:background="@color/cardview_light_background"
+                android:cursorVisible="true"
+                android:inputType="textEmailAddress"
+                android:padding="10dp"
+                android:paddingRight="35dp"
+                android:singleLine="true"
+                android:textColor="@color/lbl_name"
+                android:textColorHint="@color/input_register_hint" />
+        </LinearLayout>
+    </LinearLayout>
+
+</FrameLayout>

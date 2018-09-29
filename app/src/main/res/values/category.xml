@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kategory_array">
+        <item>Pilih Aktivitas</item>
+        <item>PM</item>
+        <item>CM</item>
+        <item>REFUEL</item>
+        <item>REPLACE BATTERY SYSTEM</item>
+        <item>OVERHAUL</item>
+        <item>JOIN VISIT</item>
+        <item>OTHER</item>
+    </string-array>
+</resources>

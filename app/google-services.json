@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "684825975843",
+    "firebase_url": "https://wmi-site-visit.firebaseio.com",
+    "project_id": "wmi-site-visit",
+    "storage_bucket": "wmi-site-visit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684825975843:android:b06e7c57890902d5",
+        "android_client_info": {
+          "package_name": "site.visit.wmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684825975843-4fq9ifit51j5dll0s13stmsg7eb9ie3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrMXIeIlCu6lGOtiBn_8sTebxMfLfNAeQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="level_array">
+        <item>Teknisi</item>
+        <item>Supervisor</item>
+        <item>Koordinator</item>
+        <item>Manager</item>
+    </string-array>
+</resources>

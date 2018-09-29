@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp"
+    android:background="@android:color/holo_orange_dark">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:text="SERVER"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView28"
+            android:textStyle="normal|bold"
+            android:textSize="20sp"
+            android:fontFamily="sans-serif"
+            android:textColor="@color/bg_login"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:text="IP Address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView26"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="25dp"
+            android:textSize="14sp"
+            android:textColor="@color/bg_login"
+            android:textStyle="normal|bold"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RadioGroup
+                android:layout_width="fill_parent"
+                android:id="@+id/radioGroup"
+                android:layout_height="wrap_content">
+
+                <RadioButton
+                    android:id="@+id/rb_primary"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="25dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginTop="10dp"
+                    android:checked="false"
+                    android:text="112.215.192.131 - IP Utama"
+                    android:textColor="@color/bg_login"
+                    android:textSize="16sp"
+                    android:textStyle="normal|bold|italic"
+                    app:buttonTint="@color/blue_darker" />
+
+                <RadioButton
+                    android:id="@+id/rb_backup"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10sp"
+                    android:layout_marginLeft="25dp"
+                    android:layout_marginRight="25dp"
+                    android:text="IP Backup"
+                    android:textColor="@color/bg_login"
+                    android:textSize="16sp"
+                    android:textStyle="normal|bold|italic"
+                    app:buttonTint="@color/blue_darker" />
+
+            </RadioGroup>
+        </LinearLayout>
+
+        <EditText
+            android:id="@+id/input_ip"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/cardview_light_background"
+            android:inputType="textEmailAddress"
+            android:padding="10dp"
+            android:singleLine="true"
+            android:textColor="@color/lbl_name"
+            android:textColorHint="@color/input_register_hint"
+            android:layout_marginTop="10dp"
+            android:cursorVisible="true"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:id="@+id/custom_ip_lin"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/textView299"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="5dp"
+                android:text="IP Backup"
+                android:textColor="@color/bg_login"
+                android:textSize="14sp"
+                android:textStyle="normal|bold" />
+
+            <EditText
+                android:id="@+id/input_ip_backup"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginTop="10dp"
+                android:background="@color/cardview_light_background"
+                android:cursorVisible="true"
+                android:hint="Contoh: 192.168.123.123"
+                android:inputType="textEmailAddress"
+                android:padding="10dp"
+                android:paddingRight="35dp"
+                android:singleLine="true"
+                android:textColor="@color/lbl_name"
+                android:textColorHint="@color/input_register_hint" />
+
+            <TextView
+                android:id="@+id/textView266"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="5dp"
+                android:text="Port"
+                android:textColor="@color/bg_login"
+                android:textSize="14sp"
+                android:textStyle="normal|bold" />
+
+            <EditText
+                android:id="@+id/input_port"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginTop="10dp"
+                android:background="@color/cardview_light_background"
+                android:cursorVisible="true"
+                android:inputType="textEmailAddress"
+                android:padding="10dp"
+                android:paddingRight="35dp"
+                android:singleLine="true"
+                android:textColor="@color/lbl_name"
+                android:textColorHint="@color/input_register_hint" />
+        </LinearLayout>
+</LinearLayout>
+
+</FrameLayout>

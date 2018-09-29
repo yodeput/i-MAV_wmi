@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="site.visit.wmi.activity.MainActivity" >
+
+    <group >
+
+        <item
+            android:id="@+id/action_refresh"
+            android:title="Refresh Data"
+            />
+
+    </group>
+
+
+    <item
+        android:id="@+id/action_setting"
+        android:title="Settings"
+       />
+
+
+    <item android:title="@string/logout"
+        android:id="@+id/action_logout"
+        />
+
+    <item
+        android:id="@+id/action_exit"
+        android:title="@string/exit"
+        />
+
+</menu>
